@@ -10,6 +10,7 @@
   * [ディフェンダーB](#ディフェンダーb)
   * [ディフェンダーリテイクB](#ディフェンダーリテイクb)
 * [Shock Dart](#shock-dart)
+* [Reference](#reference)
 
 ## Recon Bolt
 
@@ -30,3 +31,8 @@
 ### ディフェンダーリテイクB
 
 ## Shock Dart
+
+## Reference
+
+* <https://valoninja.net/2020/09/29/219/>
+* <https://isa-computer.com/sova-recon-split/>
