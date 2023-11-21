@@ -11,6 +11,7 @@
   * [ディフェンダーリテイクC](#ディフェンダーリテイクc)
   * [ディフェンダーリテイクA](#ディフェンダーリテイクa)
 * [Shock Dart](#shock-dart)
+* [Reference](#reference)
 
 ## Recon Bolt
 
@@ -41,3 +42,7 @@
 引っ張ってる余裕がない
 
 ## Shock Dart
+
+## Reference
+
+* <https://youtu.be/sfYMqOOT39M?si=O7MgSQ9cJk1t6Zfi>
