@@ -13,7 +13,7 @@
   * [Defender Retake A](#defender-retake-a)
   * [Defender Retake B](#defender-retake-b)
 * [Shock Dart](#shock-dart)
-  * [Attacker Entry](#attacker-entry)
+  * [Attacker](#attacker)
 * [Reference](#reference)
 
 ## Recon Bolt
@@ -116,7 +116,7 @@
 
 ## Shock Dart
 
-### Attacker Entry
+### Attacker
 
 | 立ち位置                   | 狙い                          | バウンス数 | チャージ数 | 当たる場所   | 備考           |
 | :------------------------- | :---------------------------- | ---------: | ---------: | :----------- | :------------- |
